@@ -1,2 +1,4 @@
-# SC_302_Documentacion_MN_Joshua-Molina-Vega
-Laboratorio 1
+# SC\_302\_Documentacion\_MN\_Joshua-Molina-Vega
+
+Esta es mi primera práctica con GitHub.
+
